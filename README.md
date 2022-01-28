@@ -8,6 +8,7 @@
 <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 <code>https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E</code>
+
 :computer: I'm Front-End Developer!
 apaixonado por tecnologias, focado em front-end 
 atualmente desenvolvendo projetos com reactjs,styled components, e em busca da primeira oportunidade com front-end
