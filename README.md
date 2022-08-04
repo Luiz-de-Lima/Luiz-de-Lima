@@ -13,6 +13,6 @@
 apaixonado por tecnologias, focado em front-end 
 atualmente desenvolvendo projetos com reactjs,styled components, e em busca da primeira oportunidade com front-end
 
-Sou motivado pelo apendizado, sempre querendo evoluir aquilo que já sei,e disposto a compartilhar todo conhecimento adquirido.
+Sou motivado pelo aprendizado, sempre querendo evoluir aquilo que já sei,e disposto a compartilhar todo conhecimento adquirido.
 Gosto de animes,séries, e de estar sempre em aprendizado.
 
